@@ -17,4 +17,4 @@ Saturday April 30,2016
 - [Forked Repo](https://github.com/udacity/web-workers-demo)
 - [Web Worker Documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 - [Web Workers on HTML5 Rocks](http://www.html5rocks.com/en/tutorials/workers/basics/)
-- 
+
